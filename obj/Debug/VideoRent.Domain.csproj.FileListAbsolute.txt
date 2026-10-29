@@ -1,0 +1,10 @@
+C:\Camila\VideoRent_DotNet\VideoRent\bin\Debug\VideoRent.dll
+C:\Camila\VideoRent_DotNet\VideoRent\bin\Debug\VideoRent.pdb
+C:\Camila\VideoRent_DotNet\VideoRent\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Camila\VideoRent_DotNet\VideoRent\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Camila\VideoRent_DotNet\VideoRent\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Camila\VideoRent_DotNet\VideoRent\obj\Debug\VideoRent.Domain.csproj.AssemblyReference.cache
+C:\Camila\VideoRent_DotNet\VideoRent\obj\Debug\VideoRent.Domain.csproj.CoreCompileInputs.cache
+C:\Camila\VideoRent_DotNet\VideoRent\obj\Debug\VideoRen.07E55607.Up2Date
+C:\Camila\VideoRent_DotNet\VideoRent\obj\Debug\VideoRent.dll
+C:\Camila\VideoRent_DotNet\VideoRent\obj\Debug\VideoRent.pdb
