@@ -1,0 +1,5 @@
+C:\Camila\VideoRent_DotNet\VideoRent.Data\obj\Debug\net8.0\VideoRent.Data.csproj.AssemblyReference.cache
+C:\Camila\VideoRent_DotNet\VideoRent.Data\obj\Debug\net8.0\VideoRent.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Camila\VideoRent_DotNet\VideoRent.Data\obj\Debug\net8.0\VideoRent.Data.AssemblyInfoInputs.cache
+C:\Camila\VideoRent_DotNet\VideoRent.Data\obj\Debug\net8.0\VideoRent.Data.AssemblyInfo.cs
+C:\Camila\VideoRent_DotNet\VideoRent.Data\obj\Debug\net8.0\VideoRent.Data.csproj.CoreCompileInputs.cache
